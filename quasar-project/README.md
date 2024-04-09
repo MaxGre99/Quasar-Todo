@@ -1,4 +1,4 @@
-# Quasar App (quasar-todo)
+# Quasar App (quasar-project)
 
 A Quasar Project
 
@@ -15,15 +15,6 @@ quasar dev
 ```
 
 
-### Lint the files
-```bash
-yarn lint
-# or
-npm run lint
-```
-
-
-
 ### Build the app for production
 ```bash
 quasar build
@@ -31,4 +22,3 @@ quasar build
 
 ### Customize the configuration
 See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
-# Quasar-Todo
